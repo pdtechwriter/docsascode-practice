@@ -10,4 +10,4 @@ Low-quality or outdated API software documentation reflects:
 - poorly on the work of your development team
 - results in increased support calls
 
-You should aim to develop effective API documentation created to make it easy for developers to work with your API, leaving your software developers time for what they do best-write code
+You should aim to develop effective [API documentation](www.google.com) created to make it easy for developers to work with your API, leaving your software developers time for what they do best-write code
