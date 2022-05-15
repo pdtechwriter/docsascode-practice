@@ -5,8 +5,10 @@
 Content analysis is a research tool used to determine the presence of certain words, themes, or concepts within some given qualitative data (i.e. text). Using content analysis, researchers can quantify and analyze the presence, meanings, and relationships of such certain words, themes, or concepts. As an example, researchers can evaluate language used within a news article to search for bias or partiality. Researchers can then make inferences about the messages within the texts, the writer(s), the audience, and even the culture and time of surrounding the text.
 
 {% for item in site.data.chronology %} 
-**{{item.name}}, {{item.year}}**
+In the year {{item.year}}, a rocket called {{ item.name}} was launched from {{item.place}}.
 {% endfor %}
+
+In the year {{item.year}}, a rocket called {{ item.name}} was launched from {{item.place}}.
 
 # Description
 
